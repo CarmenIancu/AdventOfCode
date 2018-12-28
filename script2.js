@@ -1,7 +1,7 @@
 const fs = require('fs'); 
 let sum=0;
 
-/*function question1 () {
+function question1 () {
 	let finalArray=[];
 	fs.readFile('./input2.txt', (err,data) => {
 	const myinput=data.toString();
@@ -24,7 +24,7 @@ let sum=0;
 	})
 }
 
-question1(); */
+question1(); 
 
 function question2 () {
 	let finalArray=[];
