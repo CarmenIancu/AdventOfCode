@@ -1,6 +1,6 @@
 const fs=require('fs');
 
-function question1 () {
+/*function question1 () {
 	let floor = 0; let basement = 0;
 	fs.readFile('./input.txt', (err,data) => {
 	const myinput=data.toString();
@@ -17,7 +17,7 @@ function question1 () {
 })
 }
 
-question1(); 
+question1(); */
 
 function question2 () {
 	let floor = 0;
